@@ -4,4 +4,6 @@
 
 Файлы HTML и подкаталоги должны лежать в каталоге, где находится «HTML_run.exe»!
 
-Добавлена поддержка русского языка в пути файлов, сделано на основе: https://github.com/sid-the-loser/html-to-exe/tree/main
+Поддреживает русский в пути файлов!
+
+Автор оригинала: https://github.com/sid-the-loser/html-to-exe/tree/main
